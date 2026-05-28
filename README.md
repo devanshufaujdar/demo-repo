@@ -1,2 +1,7 @@
 # demo-repo
-this is my first repository
+this is a my first Git repository.
+<br>
+Author = Devanshu Faujdar
+
+
+
